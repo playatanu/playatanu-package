@@ -5,7 +5,7 @@ this_directory = Path(__file__).parent
 
 LONG_DESCRIPTION = (this_directory / "README.md").read_text()  + '\n\n' + (this_directory / "CHANGELOG.md").read_text()
 
-VERSION = '0.0.5' 
+VERSION = '0.0.7' 
 DESCRIPTION = 'machine learning toolkit'
 
 classifiers = [
